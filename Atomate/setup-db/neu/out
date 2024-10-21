@@ -1,0 +1,4 @@
+2024-10-17 02:29:02,350 INFO Hostname/IP lookup (this will take a few seconds)
+2024-10-17 02:29:02,353 INFO Launching Rocket
+No FireWorks are ready to run and match query! {'$or': [{'spec._fworker': {'$exists': False}}, {'spec._fworker': None}, {'spec._fworker': 'AOTB'}], 'spec._category': 'workflows'}
+2024-10-17 02:29:02,479 INFO Rocket finished

@@ -1,0 +1,25 @@
+2024-10-17 02:46:12,899 DEBUG getting queue adapter
+2024-10-17 02:46:12,949 INFO No jobs exist in the LaunchPad for submission to queue!
+2024-10-17 10:06:15,109 INFO getting queue adapter
+2024-10-17 10:06:15,118 INFO Created new dir /work/bansil/angus.h/wf_test/block_2024-10-17-14-06-15-110628
+2024-10-17 10:06:15,191 INFO 0 jobs in queue. Maximum allowed by user: 1
+2024-10-17 10:07:07,270 INFO getting queue adapter
+2024-10-17 10:07:07,277 INFO Found previous block, using /work/bansil/angus.h/wf_test/block_2024-10-17-14-06-15-110628
+2024-10-17 10:07:35,045 INFO getting queue adapter
+2024-10-17 10:07:35,051 INFO Created new dir /work/bansil/angus.h/wf_test/block_2024-10-17-14-06-15-110628/block_2024-10-17-14-07-35-046439
+2024-10-17 10:07:35,103 INFO Finished a round of launches, sleeping for 60 secs
+2024-10-17 10:07:50,670 INFO getting queue adapter
+2024-10-17 10:07:50,671 INFO Found previous block, using /work/bansil/angus.h/wf_test/block_2024-10-17-14-06-15-110628
+2024-10-17 10:07:50,723 INFO Finished a round of launches, sleeping for 60 secs
+2024-10-17 10:08:50,778 INFO Checking for Rockets to run...
+2024-10-17 10:08:50,791 INFO Finished a round of launches, sleeping for 60 secs
+2024-10-17 10:11:47,209 DEBUG getting queue adapter
+2024-10-17 10:11:47,259 INFO No jobs exist in the LaunchPad for submission to queue!
+2024-10-17 10:38:24,496 DEBUG getting queue adapter
+2024-10-17 10:38:24,546 INFO No jobs exist in the LaunchPad for submission to queue!
+2024-10-17 11:14:28,241 DEBUG getting queue adapter
+2024-10-17 11:14:28,292 INFO No jobs exist in the LaunchPad for submission to queue!
+2024-10-17 11:15:09,616 DEBUG getting queue adapter
+2024-10-17 11:15:09,666 INFO No jobs exist in the LaunchPad for submission to queue!
+2024-10-17 17:02:21,762 DEBUG getting queue adapter
+2024-10-17 17:02:21,815 INFO No jobs exist in the LaunchPad for submission to queue!

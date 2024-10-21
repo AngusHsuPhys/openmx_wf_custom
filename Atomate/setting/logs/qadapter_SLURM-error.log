@@ -1,0 +1,12 @@
+2024-10-17 13:35:35,404 ERROR ----|vvv|----
+2024-10-17 13:35:35,404 ERROR Error in job submission with SLURM file FW_submit.script and cmd ['sbatch', 'FW_submit.script']
+The error response reads: b'sbatch: error: Batch job submission failed: Requested node configuration is not available\n'
+2024-10-17 13:35:35,415 ERROR ----|^^^|----
+2024-10-17 13:39:02,631 ERROR ----|vvv|----
+2024-10-17 13:39:02,631 ERROR Error in job submission with SLURM file FW_submit.script and cmd ['sbatch', 'FW_submit.script']
+The error response reads: b'sbatch: error: Batch job submission failed: Requested node configuration is not available\n'
+2024-10-17 13:39:02,631 ERROR ----|^^^|----
+2024-10-17 13:39:28,410 ERROR ----|vvv|----
+2024-10-17 13:39:28,410 ERROR Error in job submission with SLURM file FW_submit.script and cmd ['sbatch', 'FW_submit.script']
+The error response reads: b'sbatch: error: Batch job submission failed: Requested node configuration is not available\n'
+2024-10-17 13:39:28,411 ERROR ----|^^^|----

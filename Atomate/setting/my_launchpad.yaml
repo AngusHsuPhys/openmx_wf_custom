@@ -1,0 +1,10 @@
+host: localhost
+logdir: /work/bansil/angus.h/program/openmx-wf/Atomate/setting/logs
+name: AOTB
+password: angus
+port: 9999
+ssl_ca_file: null
+strm_lvl: INFO
+user_indices: []
+username: angush
+wf_user_indices: []

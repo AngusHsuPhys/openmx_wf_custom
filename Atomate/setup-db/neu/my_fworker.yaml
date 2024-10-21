@@ -1,0 +1,9 @@
+name: AOTB
+category: test
+query: '{}'
+env:
+  db_file: /work/bansil/angus.h/atomate/config/db.json
+  openmx_dft_data_path: /home/t.hsu/openmx/DFT_DATA19
+  openmx_cmd: mpirun -np 32 /home/t.hsu/openmx/source/openmx
+  deeph_preprocess_cmd: singularity run -B `pwd`:/data /home/j.tsai/deeph-preprocess.sif
+scratch_dir:

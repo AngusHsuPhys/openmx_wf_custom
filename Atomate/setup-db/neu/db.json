@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": 9999,
+    "database": "AOTB",
+    "collection": "test",
+    "admin_user": "angush",
+    "admin_password": "angus",
+    "readonly_user": "",
+    "readonly_password": "",
+    "aliases": {}
+}
